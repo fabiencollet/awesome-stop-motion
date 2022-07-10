@@ -1,6 +1,6 @@
 Tags: #canada #studios
 
-# 🇨🇦 Studios
+# 🇨🇦 Canada - Studios
 
 ## [Stop Motion Department](https://www.stopmodept.com/)
 
@@ -15,3 +15,6 @@ Tags: #canada #studios
 **Tags :** #studio #toronto #short_films, #commercials
 
 ___
+
+[link test](../../guides/softwares.md)
+[link test](/resources/guides/softwares.md)
