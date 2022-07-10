@@ -1,6 +1,6 @@
 Tags : #online #stores 
 
-# Online Stores :
+# 🌐 Online Stores :
 
 ## Based in Europe :
 
@@ -13,8 +13,6 @@ Tags : #online #stores
 **Based in :** 🇪🇸 Spain
 
 **Products :** Armatures, Custom Amatures, Rigs, Motion control
-
-**Shopping method :** 🌐 Online
 
 **Website :** [https://kineticarmatures.com/](https://kineticarmatures.com/)</br></br>
 
@@ -33,8 +31,6 @@ ___
 **Based in :** 🇬🇧 United Kingdom
 
 **Products :** Armatures, Moulds, Rigs, Softwares, 3d Printing
-
-**Shopping method :** 🌐 Online
 
 **Website :** [https://www.stopmotionshop.com/](https://www.stopmotionshop.com/)</br></br>
 

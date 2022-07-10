@@ -6,12 +6,12 @@ Tags: #spain #studios
 
 ![citoplasmas_image](https://citoplasmas.com/wp-content/uploads/portadaoli.jpg)
 
-Main activities : Short films, Commercials, Tv series
+**Main activities :** Short films, Commercials, Tv series
 
-Location : Barcelona
+**Location :** Barcelona
 
-Website : [https://citoplasmas.com/](https://citoplasmas.com/)</br></br>
+**Website :** [https://citoplasmas.com/](https://citoplasmas.com/)</br></br>
 
-Tags : #studio #barcelona #short_films, #commercials, #tv_series
+**Tags :** #studio #barcelona #short_films, #commercials, #tv_series
 
 ___
