@@ -8,20 +8,18 @@
 
 <img src="https://kineticarmatures.com/wp-content/uploads/2015/05/logokinetic1.jpg" alt="kinematicarmature_logo" title="kinematicarmature_logo"/>
 
-Description : Stop Motion hardware shop
+**Description :** Stop Motion hardware shop
+
+**Based in :** 🇪🇸 Spain
+
+**Products :** Armatures, Custom Amatures, Rigs, Motion control
+
+**Shopping method :** 🌐 Online
+
+**Website :** [https://kineticarmatures.com/](https://kineticarmatures.com/)</br>
 
 
-Based in : 🇪🇸 Spain
-
-Products :Armatures, Custom Amatures, Rigs, Motion control
-
-Shopping method : 🌐 Online
-
-
-Website : [https://kineticarmatures.com/](https://kineticarmatures.com/)
-
-
-Tags : #spain #online #armatures, #custom_armatures, #rigs, #motion_control
+**Tags :** #spain #online #armatures, #custom_armatures, #rigs, #motion_control
 
 ___
 
@@ -30,14 +28,15 @@ ___
 <img src="https://www.stopmotionshop.com/ekmps/shops/julianclark/resources/Design/fulllogo_transparent_nobuffer.png" alt="stopmotionshop_logo" title="stopmotionshop_logo" width="300px"/>
 
 
-Description : Stop Motion hardware and software store
+**Description :** Stop Motion hardware and software store
 
-Based in : 🇬🇧 United Kingdom 
-Products : Armatures, Moulds, Rigs, Softwares, 3d Printing 
-Shopping method : 🌐 Online
-Website : [https://www.stopmotionshop.com/](https://www.stopmotionshop.com/)
+**Based in :** 🇬🇧 United Kingdom | 
+**Products :** Armatures, Moulds, Rigs, Softwares, 3d Printing | 
+**Shopping method :** 🌐 Online | 
+**Website :** [https://www.stopmotionshop.com/](https://www.stopmotionshop.com/)</br>
 
-Tags : #uk #online #store #armatures #moulds #rigs #softwares #3d_printing
+
+**Tags :** #uk #online #store #armatures #moulds #rigs #softwares #3d_printing
 
 ___
 
