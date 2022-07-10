@@ -1,2 +1,2 @@
-# awesome-stop-motion
-A curated list of all ressources for making stop motion
+# Awesome Stop Motion
+A curated list of references and ressources for making stop motion
