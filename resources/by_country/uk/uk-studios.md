@@ -1,13 +1,17 @@
 Tags:
 #uk #studios
 
-# Studios
+# 🇬🇧 Studios
 
 ## [Aardman](https://www.aardman.com/)
+<img src="https://www.aardman.com/media/32xlqktl/47505e.png" alt="aardman_image" title="aardman_image" width="300px"/>
 
-![aardman_image](https://www.aardman.com/media/32xlqktl/47505e.png)
+Main activities : Feature films, Commercials,Tv series
 
-Main activities : #Feature_Films, #Tv_Series
-Location : #Bristol
+Location : Bristol
 
-Website : [https://www.aardman.com/](https://www.aardman.com/)
+Website : [https://www.aardman.com/](https://www.aardman.com/)</br></br>
+
+Tags : #studio #bristol #feature_films, #commercials, #tv_series 
+
+___

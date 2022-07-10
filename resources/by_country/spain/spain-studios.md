@@ -1,13 +1,17 @@
-Tags:
-#spain #studios
+Tags: #spain #studios
 
-# Studios
+# 🇪🇸 Studios
 
 ## [Citoplasmas stopmotion](https://citoplasmas.com/)
 
 ![citoplasmas_image](https://citoplasmas.com/wp-content/uploads/portadaoli.jpg)
 
-Main activities : #Short_Films, #Commercials, #Tv_Series
-Location : #Barcelona
+Main activities : Short films, Commercials, Tv series
 
-Website : [https://citoplasmas.com/](https://citoplasmas.com/)
+Location : Barcelona
+
+Website : [https://citoplasmas.com/](https://citoplasmas.com/)</br></br>
+
+Tags : #studio #barcelona #short_films, #commercials, #tv_series
+
+___
