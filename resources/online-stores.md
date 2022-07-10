@@ -7,8 +7,11 @@
 ![kinematicarmature_logo](https://kineticarmatures.com/wp-content/uploads/2015/05/logokinetic1.jpg)
 
 Based in : #spain 
+
 Products : #armatures, #custom_armatures, #rigs, #motion_control
+
 Shopping method : #online 
+
 
 Website : [https://kineticarmatures.com/](https://kineticarmatures.com/)
    ___
