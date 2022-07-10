@@ -2,9 +2,9 @@ Tags : #list #softwares
 
 # Softwares :
 
-## Pre-Production
-## Production
-## Stop Motion
+## Pre-Production :
+## Production :
+## Stop Motion :
 ### [Dragon Frame](https://www.dragonframe.com/)
 <img src="https://www.dragonframe.com/wp-content/uploads/2017/03/DF4_Web_logo.png" alt="dragonframe_logo" title="dragonframe_logo"/>
 
@@ -22,8 +22,8 @@ Tags : #dragonframe #software #macos #windows #linux #animation #photography #dm
 
 ___
 
-## 2D
-## 3D
+## 2D :
+## 3D :
 ### [Blender](https://www.blender.org/)
 <img src="https://www.blender.org/wp-content/uploads/2015/03/blender_logo_socket-1-1280x391.png" alt="blender_logo" title="blender_logo" width="300px"/>
 
@@ -41,7 +41,7 @@ Tags : #blender #software #macos #windows #linux #3d #animation #free #open_sour
 
 ___
 
-## Compositing
+## Compositing :
 
 ### [Natron](https://natrongithub.github.io/)
 <img src="https://natrongithub.github.io/img/Natron_icon.svg" alt="natron_logo" title="natron_logo" width="200px"/>
@@ -60,4 +60,4 @@ Tags : #natron #software #macos #windows #linux #2d #compositing #vfx #motiongra
 
 ___
 
-## Editing
+## Editing :
